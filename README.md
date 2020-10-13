@@ -4,14 +4,14 @@ The point of this repo is to point out some particularly useful git & GitHub
 tips, tricks, and workflows for data science work.
 
 
-## Terminal tips
+## [Terminal tips](adjusting_terminal_for_git.ipynb)
 
 - [Git completion](https://github.com/git/git/tree/master/contrib/completion)
 - Customizing [git prompt](https://github.com/git/git/blob/master/contrib/completion/git-prompt.sh) in bash/zsh shell
 - [nbdime](https://nbdime.readthedocs.io/) & git diff
 
 
-## Doing more with git
+## [Doing more with git](beyond_basic_git.ipynb)
 
 - Signing your commits
 - Tags
