@@ -19,7 +19,7 @@ tips, tricks, and workflows for data science work.
 - Branches
 
 
-## Large files
+## [Large files](large_files.ipynb)
 
 - [git-lfs](https://git-lfs.github.com/)
 - [GitHub releases](https://docs.github.com/en/free-pro-team@latest/github/administering-a-repository/releasing-projects-on-github)
