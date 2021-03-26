@@ -3,6 +3,7 @@
 The point of this repo is to point out some particularly useful git & GitHub
 tips, tricks, and workflows for data science work.
 
+Recording of Lesson [https://youtu.be/nIYnh6uAun0](https://www.youtube.com/watch?v=nIYnh6uAun0)
 
 ## [Terminal tips](adjusting_terminal_for_git.ipynb)
 
